@@ -4,7 +4,7 @@ Handles the GUI creation functions
 from matplotlib import pyplot as plt
 from matplotlib.patches import Polygon
 
-from matplotlib.colors import ColorConverter
+from matplotlib.colors import colorConverter
 
 import numpy as np
 

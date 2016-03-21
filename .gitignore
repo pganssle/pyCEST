@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Build detritus
+build/
+dist/
+*.egg-info/
+
+# Data
+Data/
+
